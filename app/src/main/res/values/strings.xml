@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">VentasMoviles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="producto_label_card">Producto: </string>
+    <string name="categoria_label_item">Categoria: </string>
+    <string name="marca_label_item">"Marca: "</string>
+    <string name="nombre_field_label">Nombre</string>
+    <string name="costo_field_label">Costo</string>
+    <string name="categoria_field_label">Categoria</string>
+    <string name="precio_menudeo_field_label">Precio menudeo</string>
+    <string name="precio_mayoreo_field_label">Precio mayoreo</string>
+    <string name="marca_field_label">Marca</string>
+    <string name="color_field_label">color</string>
+    <string name="unidad_de_medida_field_label">Unidad de medida</string>
+    <string name="guardar_field_label">Guardar</string>
+    <string name="cantidad_minima_field_label">Cantidad minima</string>
+    <string name="todo">TODO</string>
+
+    //fragemnt label
+    <string name="categoria_label">categoria</string>
+    <string name="producto_label">producto</string>
+    <string name="compras_label">compras</string>
+    <string name="ventas_label">ventas</string>
+    <string name="mis_clientes_label">misClientes</string>
+    <string name="inventario_label">inventario</string>
+    <string name="descripcion_label">Descripción</string>
+
+
+</resources>

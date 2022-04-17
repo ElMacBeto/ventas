@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/detalles_btn"
+        android:title="ver detalles"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/delete_btn"
+        android:title="eliminar"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/edit_btn"
+        android:title="editar"
+        app:showAsAction="ifRoom" />
+</menu>
